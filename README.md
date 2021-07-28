@@ -7,3 +7,6 @@ I used HTML, CSS and mostly Javascript to make it responsive and interactive.
 I collaborated with the team at Scrimba while developing this project.
 
 
+View LiveWebsite: https://heizal.github.io/counter-app/
+
+
